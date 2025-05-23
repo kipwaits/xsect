@@ -6,7 +6,9 @@ matplotlib>=2.2.2
 pytest>=3.5.1
 pytest-cov>=2.5.1
 codecov>=2.0.15
-
+opensees
+xara
+veux
 # docs
 docutils==0.14
 numpydoc>=0.8.0
